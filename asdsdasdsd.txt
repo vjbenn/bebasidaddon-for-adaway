@@ -1,0 +1,437 @@
+#credit bebasID https://github.com/bebasid/bebasid/blob/master/releases/hosts
+#update 10/23; remove xvideos
+#update 11/12; jvid added
+
+# [Matikan fitur SafeSearch Google dan Youtube]
+216.58.211.3 google.com
+216.58.211.3 www.google.com
+216.58.211.3 google.co.id
+216.58.211.3 www.google.co.id
+127.0.0.1 forcesafesearch.google.com
+127.0.0.1 restrict.youtube.com
+
+# [JVID]
+35.241.42.255 staging001.jvid.com 
+35.241.42.255 img.staging001.jvid.com
+104.22.21.160 www.jvid.com 
+104.22.21.160 payment.jvid.com 
+104.22.21.160 event.jvid.com 
+104.22.21.160 support.jvid.com
+
+# [reddit.com]
+151.101.129.140 reddit.com
+151.101.129.140 www.reddit.com
+151.101.53.140 v.redd.it
+151.101.53.140 s.reddit.com
+151.101.53.140 external-preview.redd.it
+151.101.65.140 redditstatic.com
+151.101.65.140 www.redditstatic.com
+
+# [thepiratebay.org]
+104.24.190.20 thepiratebay.org
+104.24.190.20 www.thepiratebay.org
+
+# [hitomi.la]
+23.237.107.210 streaming.hitomi.la
+23.237.107.210 a.hitomi.la
+23.237.107.210 aa.hitomi.la
+23.237.107.210 btn.hitomi.la
+23.237.107.210 atn.hitomi.la
+23.237.107.210 hf3.hitomi.la
+23.237.107.210 la.hitomi.la
+23.237.107.210 0tn.hitomi.la
+23.237.107.210 0a.hitomi.la
+23.237.107.210 af.hitomi.la
+23.237.107.210 f.hitomi.la
+23.237.107.210 c.hitomi.la
+23.237.107.210 d.hitomi.la
+23.237.107.210 e.hitomi.la
+23.237.107.210 b.hitomi.la
+23.237.107.210 ag.hitomi.la
+23.237.107.210 i.hitomi.la
+23.237.107.210 g.hitomi.la
+23.237.36.202 hf1.hitomi.la
+23.237.36.202 ba.hitomi.la
+23.237.36.202 dev.hitomi.la
+23.237.36.202 ab.hitomi.la
+23.237.36.202 ac.hitomi.la
+23.237.36.202 ad.hitomi.la
+23.237.36.202 ae.hitomi.la
+23.237.36.202 ah.hitomi.la
+23.237.36.202 ai.hitomi.la
+23.237.36.202 h.hitomi.la
+23.237.36.202 lb.hitomi.la
+23.237.36.202 lc.hitomi.la
+23.237.36.202 ld.hitomi.la
+23.237.36.202 le.hitomi.la
+23.237.36.202 lf.hitomi.la
+23.237.36.202 lg.hitomi.la
+23.237.36.202 lh.hitomi.la
+23.237.36.202 li.hitomi.la
+192.240.120.10 ltn.hitomi.la
+192.240.120.10 hf2.hitomi.la
+192.240.120.10 tn.hitomi.la
+192.240.120.10 ca.hitomi.la
+192.240.120.10 ctn.hitomi.la
+
+# [nhentai.net]
+104.27.195.88 nhentai.net
+104.27.195.88 tracker.nhentai.net
+104.27.194.88 www.nhentai.net
+104.27.194.88 static.nhentai.net
+185.177.127.78 i7.nhentai.net
+185.177.127.78 t7.nhentai.net
+185.177.127.77 i5.nhentai.net
+185.177.127.77 t5.nhentai.net
+185.177.127.77 webseed.nhentai.net
+185.177.127.77 t.nhentai.net
+
+# [gelbooru.com]
+67.202.114.141 gelbooru.com
+67.202.114.141 www.gelbooru.com
+212.8.240.5 img2.gelbooru.com
+212.8.240.5 simg3.gelbooru.com
+
+# [rarbg.me]
+151.80.120.115 9.rarbg.me
+151.80.120.115 www.9rarbg.me
+
+# [isohunt.to]
+104.23.204.30 isohunt.to
+104.23.204.30 www.isohunt.io
+
+# [pornhub.com]
+31.192.120.36 pornhub.com
+31.192.120.36 www.pornhub.com
+205.185.208.142 phncdn.com
+205.185.208.142 www.phncdn.com
+205.185.208.142 di.phncdn.com
+205.185.208.142 dv.phncdn.com
+205.185.208.142 dl.phncdn.com
+205.185.208.142 cdn1d-static-shared.phncdn.com
+205.185.208.142 cv.phncdn.com
+
+# [tbib.org]
+104.31.90.62 tbib.org
+104.31.90.62 www.tbib.org
+
+# [xhamster.com]
+185.207.236.130 xhamster.com
+185.207.236.130 www.xhamster.com
+185.207.236.130 m.xhamster.com
+185.207.236.130 mobi.xhamster.com
+88.208.31.1 xhcdn.com
+88.208.31.1 video.xhcdn.com
+88.208.31.1 video1.xhcdn.com
+88.208.31.1 video2.xhcdn.com
+88.208.31.1 video3.xhcdn.com
+
+# [javfor.me]
+104.25.219.15 javfor.me
+104.25.219.15 www.javfor.me
+
+# [javfind.com]
+104.24.125.127 javfind.com
+104.24.125.127 www.javfind.com
+
+# [bejav.net]
+104.28.4.81 bejav.net
+104.28.4.81 www.bejav.net
+
+# [akiba-online.com]
+89.248.169.70 akiba-online.com
+89.248.169.70 www.akiba-online.com
+
+# [donmai.us]
+104.20.134.45 donmai.us
+104.20.134.45 www.donmai.us
+104.20.134.45 danbooru.donmai.us
+104.20.135.45 raikou1.donmai.us
+104.20.135.45 raikou2.donmai.us
+104.20.135.45 raikou3.donmai.us
+104.20.135.45 raikou4.donmai.us
+104.20.135.45 safebooru.donmai.us
+
+# [bromo.com]
+94.199.249.240 bromo.com
+94.199.249.240 www.bromo.com
+
+# [hentai2read.com]
+104.20.62.168 hentai2read.com
+104.20.62.168 www.hentai2read.com
+
+# [vipergirls.to]
+104.25.190.118 vipergirls.to
+104.25.190.118 www.vipergirls.to
+
+# [fakku.net]
+104.20.209.29 fakku.net
+104.20.209.29 www.fakku.net
+
+# [e-hentai.org]
+104.24.255.11 e-hentai.org
+104.24.255.11 www.e-hentai.org
+
+ 
+# [paheal.net]
+208.97.151.195 paheal.net
+208.97.151.195 www.paheal.net
+
+ 
+# [spankbang.com]
+104.20.41.98 static.spankbang.com
+104.20.41.98 a-eng.spankbang.com
+104.20.41.98 m.spankbang.com
+104.20.41.98 spankbang.com
+104.20.41.98 www.spankbang.com
+104.20.41.98 cdnthumb3.spankbang.com
+104.20.41.98 cdnthumb1.spankbang.com
+104.20.41.98 cdnthumb.spankbang.com
+104.20.41.98 cdnthumb2.spankbang.com
+104.20.41.98 id.spankbang.com
+104.20.41.98 cdnthumb3.spankbang.com
+104.20.41.98 cdnthumb4.spankbang.com
+104.20.41.98 cdnthumb5.spankbang.com
+
+# [dmm.co.jp]
+202.6.245.93 pics.dmm.co.jp
+202.6.245.93 p.dmm.co.jp
+43.255.40.206 games.dmm.co.jp
+43.255.40.206 games.dmm.com
+
+# [javlibrary.com]
+104.18.62.228 javlibrary.com
+104.18.62.228 www.javlibrary.com
+
+# [javlib.com]
+104.18.54.249 javlib.com
+104.18.54.249 www.javlib.com
+
+# [yande.re]
+198.98.54.92 assets.yande.re
+198.98.54.92 files.yande.re
+198.98.54.92 www.yande.re
+198.98.54.92 yuno.yande.re
+198.98.54.92 yande.re
+198.98.54.92 ayase.yande.re
+198.98.54.92 direct.yande.re
+198.98.54.92 webmaster.yande.re
+72.11.139.6 generic.yande.re
+72.11.139.6 imouto.yande.re
+
+# [konachan.com]
+5.178.68.69 konachan.com
+5.178.68.69 www.konachan.com
+
+# [tsumino.com]
+104.28.3.29 tsumino.com
+104.28.3.29 www.tsumino.com
+104.28.3.29 content.tsumino.com
+
+# [porneq.com]
+163.172.85.31 porneq.com
+163.172.85.31 www.porneq.com
+
+# [newgrounds.com]
+51.79.77.157 newgrounds.com
+51.79.77.157 www.newgrounds.com
+
+
+# [redflava.com]
+85.10.202.22 redflava.com
+85.10.202.22 www.redflava.com
+
+# [xiuren.org]
+185.11.146.55 xiuren.org
+185.11.146.55 www.xiuren.org
+
+# [moodyz.com]
+61.196.18.151 moodyz.com
+61.196.18.151 www.moodyz.com
+
+# [javhd.pro]
+104.28.2.147 javhd.pro
+104.28.2.147 www.javhd.pro
+
+# [scanlover.com]
+104.27.146.232 scanlover.com
+104.27.146.232 www.scanlover.com
+
+# [2chan.net]
+104.17.127.32 2chan.net
+104.17.127.32 www.2chan.net
+
+# [hentai.cafe]
+104.25.23.115 hentai.cafe
+104.25.23.115 www.hentai.cafe
+
+# [hbrowse.com]
+104.28.18.40 hbrowse.com
+104.28.18.40 www.hbrowse.com
+
+# [redtube.com]
+64.210.135.134 redtube.com
+64.210.135.134 www.redtube.com
+64.210.135.134 m.redtube.com
+64.210.135.134 embed.redtube.com
+
+# [javhub.net]
+104.25.47.115 javhub.net
+104.25.47.115 www.javhub.net
+104.26.13.156 image.javhub.net
+104.26.13.156 ja.javhub.net
+
+# [imagefap.com]
+109.201.130.57 imagefap.com
+109.201.130.57 www.imagefap.com
+
+# [katcr.co]
+91.212.150.157 katcr.co
+91.212.150.157 www.katcr.co
+
+# [1337x.to]
+172.67.141.188 1337x.to
+172.67.141.188 www.1337x.to
+
+# [yts.lt]
+104.25.135.117 yts.lt
+104.25.135.117 www.yts.lt
+
+# [rarbgaccess.org]
+104.31.82.250 rarbgaccess.org
+104.31.82.250 www.rarbgaccess.org
+
+# [nekopoi.care]
+104.31.66.84 nekopoi.care
+104.31.66.84 www.nekopoi.care
+
+# [javhub.me]
+104.18.54.138 javhub.me
+104.18.54.138 www.javhub.me
+104.18.54.138 www5.javhub.me
+
+# [e-hentaidb.com]
+80.209.252.66 e-hentaidb.com
+80.209.252.66 www.e-hentaidb.com
+
+# [nudegirls4u.com]
+173.236.9.27 nudegirls4u.com
+173.236.9.27 www.nudegirls4u.com
+
+# [semprotku.com]
+104.24.99.53 semprotku.com
+104.24.99.53 www.semprotku.com
+
+
+# [nozomi.la]
+192.240.120.10 ns1.nozomi.la
+192.240.120.10 n.nozomi.la
+
+# [e-hentai.me]
+104.31.11.173 e-hentai.me
+104.31.11.173 www.e-hentai.me
+
+# [kpopdeepfakes.net]
+149.56.27.151 kpopdeepfakes.net
+149.56.27.151 www.kpopdeepfakes.net
+
+# [warashi-asian-pornstars.fr]
+51.15.172.59 warashi-asian-pornstars.fr
+51.15.172.59 www.warashi-asian-pornstars.fr
+
+# [samehada.tv]
+104.18.35.212 samehada.tv
+104.18.35.212 www.samehada.tv
+
+# [subscene.com]
+104.27.181.8 subscene.com
+104.27.181.8 www.subscene.com
+104.27.181.8 forum.subscene.com
+104.27.181.8 c.subscene.com
+104.27.181.8 papi.subscene.com
+
+# [opensubtitles.org]
+104.26.8.126 opensubtitles.org
+104.26.8.126 www.opensubtitles.org
+104.26.8.126 static.opensubtitles.org
+104.26.8.126 blog.opensubtitles.org
+104.26.8.126 dl.opensubtitles.org
+104.26.9.126 forum.opensubtitles.org
+104.26.9.126 ads2.opensubtitles.org
+104.26.9.126 trac.opensubtitles.org
+104.26.9.126 api.opensubtitles.org
+
+# [pahe.in]
+104.27.133.141 pahe.in
+104.27.133.141 lawas.pahe.in
+104.27.133.141 www.lawas.pahe.in
+104.27.133.141 panel.pahe.in
+104.27.133.141 www.panel.pahe.in
+172.67.192.118 www.pahe.in
+172.67.192.118 drive.pahe.in
+172.67.192.118 p.pahe.in
+172.67.192.118 link.pahe.in
+136.243.46.151 e5.pahe.in
+136.243.46.151 file.pahe.in
+136.243.46.151 ckklg.pahe.in
+
+# [crackwatch.com]
+104.26.12.70 crackwatch.com
+104.26.12.70 www.crackwatch.com
+104.26.12.70 b2.crackwatch.com
+104.26.12.70 cron.crackwatch.com
+104.26.12.70 s3.crackwatch.com
+
+# [redgifs.com]
+107.23.151.94 redgifs.com
+107.23.151.94 cpanel.redgifs.com
+107.23.151.94 mail.redgifs.com
+107.23.151.94 webdisk.redgifs.com
+107.23.151.94 webmail.redgifs.com
+107.23.151.94 whm.redgifs.com
+34.236.186.181 thumbs.redgifs.com
+34.236.186.181 thumbs1.redgifs.com
+198.134.29.39 thcf1.redgifs.com
+198.134.29.39 thalt1a.redgifs.com
+198.134.29.37 thcf2.redgifs.com
+198.134.29.37 thalt2.redgifs.com
+198.134.29.36 thcf5.redgifs.com
+198.134.29.36 thalt5.redgifs.com
+198.134.29.45 thcf6.redgifs.com
+198.134.29.45 thalt6.redgifs.com
+198.134.29.46 thcf7.redgifs.com
+198.134.29.46 thalt7.redgifs.com
+198.134.29.47 thcf8.redgifs.com
+198.134.29.47 thalt8.redgifs.com
+23.22.64.108 api.redgifs.com
+23.22.64.108 weblogin.redgifs.com
+
+# [91porn.com]
+104.26.2.41 www.91porn.com
+104.26.2.41 forum.91porn.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
